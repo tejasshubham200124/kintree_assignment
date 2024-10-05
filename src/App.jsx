@@ -4,7 +4,7 @@ import Banner from './components/Banner'
 import AboutUs from './components/AboutUs'
 import Paintings from './components/Paintings'
 import MentorsSection from './components/MentorSection'
-import Testimonials from './components/testimonials'
+import Testimonials from './components/Testimonials'
 import Navbar from './components/Navbar'
 
 function App() {
